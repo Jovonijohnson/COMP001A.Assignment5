@@ -12,12 +12,16 @@ header  {
 }
 body {
 
+    background-color: #363636;
     background-image:url("media/dungeon3.png");
 }
 body  p{
     color: crimson;
 }
-
+h1,h2,h3{
+    color: aquamarine;
+    /*Adjust style for h1,h2,h3 aquamarine */
+}
 /* Adjust style for h1 */
 h1 { 
     color: #363636;
